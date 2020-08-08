@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-WIP
+[Twitter](https://twitter.com/_JimmyPham)
 <!--
 **jpham197/jpham197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
